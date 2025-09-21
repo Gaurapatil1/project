@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "jd-001",
+    "title": "Senior Software Engineer - Full Stack",
+    "company": "TechCorp Inc.",
+    "location": "San Francisco, CA (Remote)",
+    "must_have_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Git",
+      "REST APIs",
+      "HTML/CSS"
+    ],
+    "nice_to_have": [
+      "GraphQL",
+      "Docker",
+      "AWS",
+      "Redis",
+      "MongoDB",
+      "Next.js",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "description": "We are seeking a Senior Software Engineer to join our growing team. You will be responsible for building and maintaining our web applications using modern technologies. Experience with React, Node.js, and database systems is essential. You'll work closely with product managers and designers to deliver high-quality software solutions.",
+    "created_at": "2024-01-15T09:00:00Z"
+  },
+  {
+    "job_id": "jd-002",
+    "title": "Data Scientist - Machine Learning",
+    "company": "AI Innovations Ltd",
+    "location": "Austin, TX",
+    "must_have_skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "SQL",
+      "Statistics",
+      "Data Analysis"
+    ],
+    "nice_to_have": [
+      "TensorFlow",
+      "PyTorch",
+      "R",
+      "Tableau",
+      "Jupyter",
+      "Apache Spark",
+      "MLOps",
+      "Deep Learning"
+    ],
+    "description": "Join our data science team to build cutting-edge machine learning models. You'll analyze large datasets, develop predictive models, and work with engineering teams to deploy ML solutions. Strong background in statistics and programming required.",
+    "created_at": "2024-01-10T14:30:00Z"
+  }
+]

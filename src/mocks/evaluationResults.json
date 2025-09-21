@@ -1,0 +1,102 @@
+[
+  {
+    "resume_id": "res-001",
+    "name": "Alex Johnson", 
+    "email": "alex.johnson@email.com",
+    "score": 92,
+    "verdict": "High",
+    "matched_skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "HTML/CSS", "REST APIs"],
+    "missing_skills": ["Git"],
+    "feedback": "Excellent candidate with strong full-stack experience. 5+ years of relevant experience with core technologies. Led large-scale projects and demonstrates leadership qualities. Minor gap in Git expertise mentioned, but likely has the skill."
+  },
+  {
+    "resume_id": "res-002",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@email.com", 
+    "score": 88,
+    "verdict": "High",
+    "matched_skills": ["JavaScript", "TypeScript", "React", "Node.js", "REST APIs", "HTML/CSS"],
+    "missing_skills": ["PostgreSQL", "Git"],
+    "feedback": "Senior engineer with excellent technical background. Strong experience in React and microservices. 7 years of industry experience in fintech. Missing specific PostgreSQL experience but has strong database knowledge. Would be a valuable addition to the team."
+  },
+  {
+    "resume_id": "res-003",
+    "name": "Michael Rodriguez",
+    "email": "m.rodriguez@email.com",
+    "score": 68,
+    "verdict": "Medium", 
+    "matched_skills": ["JavaScript", "TypeScript", "React", "HTML/CSS"],
+    "missing_skills": ["Node.js", "PostgreSQL", "REST APIs", "Git"],
+    "feedback": "Good frontend developer with solid React skills. 3 years of experience shows steady growth. Missing backend experience with Node.js and database skills. AWS certification is a plus. Would need mentoring on full-stack development."
+  },
+  {
+    "resume_id": "res-004",
+    "name": "Emily Wang",
+    "email": "emily.wang@email.com",
+    "score": 84,
+    "verdict": "High",
+    "matched_skills": ["JavaScript", "React", "Node.js", "HTML/CSS", "REST APIs"],
+    "missing_skills": ["TypeScript", "PostgreSQL", "Git"],
+    "feedback": "Strong full-stack developer with startup experience. 4 years of relevant experience building scalable applications. MongoDB experience translates well to databases. GraphQL and Docker experience are valuable additions. Minor gaps in TypeScript and PostgreSQL."
+  },
+  {
+    "resume_id": "res-005", 
+    "name": "David Thompson",
+    "email": "david.thompson@email.com",
+    "score": 45,
+    "verdict": "Low",
+    "matched_skills": ["PostgreSQL"],
+    "missing_skills": ["JavaScript", "TypeScript", "React", "Node.js", "HTML/CSS", "REST APIs", "Git"],
+    "feedback": "Experienced backend engineer with strong database skills. However, lacks frontend experience with React and JavaScript ecosystem. 6 years of Java/Spring experience shows solid engineering foundation but would require significant ramp-up for full-stack role."
+  },
+  {
+    "resume_id": "res-006",
+    "name": "Lisa Park", 
+    "email": "lisa.park@email.com",
+    "score": 25,
+    "verdict": "Low",
+    "matched_skills": [],
+    "missing_skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "HTML/CSS", "REST APIs", "Git"],
+    "feedback": "Highly qualified data scientist with PhD and 5+ years ML experience. However, skillset doesn't align with full-stack software engineering role. Would be excellent for data science positions but not suitable for this software engineering role."
+  },
+  {
+    "resume_id": "res-007",
+    "name": "James Wilson",
+    "email": "james.wilson@email.com",
+    "score": 52,
+    "verdict": "Medium",
+    "matched_skills": ["JavaScript", "HTML/CSS", "React"],
+    "missing_skills": ["TypeScript", "Node.js", "PostgreSQL", "REST APIs", "Git"],
+    "feedback": "Junior developer with good fundamentals and recent CS degree. 1.5 years experience shows promise but lacks depth in required technologies. Missing backend experience entirely. Would be suitable for junior role with proper mentoring and training program."
+  },
+  {
+    "resume_id": "res-008",
+    "name": "Maria Garcia",
+    "email": "maria.garcia@email.com",
+    "score": 38,
+    "verdict": "Low", 
+    "matched_skills": ["Git"],
+    "missing_skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "HTML/CSS", "REST APIs"],
+    "feedback": "Excellent DevOps engineer with strong infrastructure and deployment skills. 4 years of valuable cloud experience. However, lacks application development experience with required tech stack. Would be perfect for DevOps role but not aligned with software engineering position."
+  },
+  {
+    "resume_id": "res-009",
+    "name": "Robert Kim", 
+    "email": "robert.kim@email.com",
+    "score": 35,
+    "verdict": "Low",
+    "matched_skills": [],
+    "missing_skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "HTML/CSS", "REST APIs", "Git"],
+    "feedback": "Strong ML engineer with 3 years specialized experience. Deep learning and MLOps skills are impressive. However, no web development experience with required stack. Python skills don't translate to full-stack web development role. Better suited for ML engineering positions."
+  },
+  {
+    "resume_id": "res-010",
+    "name": "Amanda Foster",
+    "email": "amanda.foster@email.com", 
+    "score": 58,
+    "verdict": "Medium",
+    "matched_skills": ["JavaScript", "React", "HTML/CSS"],
+    "missing_skills": ["TypeScript", "Node.js", "PostgreSQL", "REST APIs", "Git"],
+    "feedback": "Unique background combining product management with recent development experience. 2 years of coding shows commitment to technical transition. Strong business acumen is valuable. Missing backend and database experience. Product knowledge could be very valuable for product-focused engineering role."
+  }
+]

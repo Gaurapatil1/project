@@ -1,0 +1,92 @@
+[
+  {
+    "resume_id": "res-001",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@email.com",
+    "phone": "+1-555-0101",
+    "filename": "alex_johnson_resume.pdf",
+    "parsed_text_snippet": "Experienced Full Stack Developer with 5+ years building web applications using React, Node.js, and PostgreSQL. Led development of e-commerce platform serving 100K+ users. Proficient in JavaScript, TypeScript, and modern development practices.",
+    "uploaded_at": "2024-01-20T10:15:00Z"
+  },
+  {
+    "resume_id": "res-002", 
+    "name": "Sarah Chen",
+    "email": "sarah.chen@email.com",
+    "phone": "+1-555-0102",
+    "filename": "sarah_chen_resume.pdf",
+    "parsed_text_snippet": "Senior Software Engineer with expertise in React, Vue.js, and microservices architecture. 7 years of experience in fintech industry. Strong background in system design and API development with Node.js and Python.",
+    "uploaded_at": "2024-01-20T10:30:00Z"
+  },
+  {
+    "resume_id": "res-003",
+    "name": "Michael Rodriguez",
+    "email": "m.rodriguez@email.com", 
+    "phone": "+1-555-0103",
+    "filename": "michael_rodriguez_resume.pdf",
+    "parsed_text_snippet": "Frontend Developer specializing in React and modern JavaScript. 3 years experience building responsive web applications. Familiar with TypeScript, Redux, and testing frameworks. Recently completed AWS certification.",
+    "uploaded_at": "2024-01-20T11:00:00Z"
+  },
+  {
+    "resume_id": "res-004",
+    "name": "Emily Wang",
+    "email": "emily.wang@email.com",
+    "phone": "+1-555-0104", 
+    "filename": "emily_wang_resume.pdf",
+    "parsed_text_snippet": "Full Stack Developer with 4 years experience in startup environment. Built scalable applications using React, Node.js, MongoDB. Experience with GraphQL, Docker, and cloud deployment on AWS. Strong problem-solving skills.",
+    "uploaded_at": "2024-01-20T11:15:00Z"
+  },
+  {
+    "resume_id": "res-005",
+    "name": "David Thompson",
+    "email": "david.thompson@email.com",
+    "phone": "+1-555-0105",
+    "filename": "david_thompson_resume.pdf", 
+    "parsed_text_snippet": "Backend Engineer with expertise in Java, Spring Boot, and database design. 6 years developing enterprise applications. Experience with PostgreSQL, Redis, and microservices. Strong understanding of system architecture.",
+    "uploaded_at": "2024-01-20T11:30:00Z"
+  },
+  {
+    "resume_id": "res-006",
+    "name": "Lisa Park",
+    "email": "lisa.park@email.com",
+    "phone": "+1-555-0106",
+    "filename": "lisa_park_resume.pdf",
+    "parsed_text_snippet": "Data Scientist with 5+ years experience in machine learning and analytics. Proficient in Python, pandas, scikit-learn, and TensorFlow. Built predictive models for customer segmentation and recommendation systems. PhD in Statistics.",
+    "uploaded_at": "2024-01-20T12:00:00Z"
+  },
+  {
+    "resume_id": "res-007",
+    "name": "James Wilson",
+    "email": "james.wilson@email.com",
+    "phone": "+1-555-0107", 
+    "filename": "james_wilson_resume.pdf",
+    "parsed_text_snippet": "Junior Developer with 1.5 years experience in web development. Recently graduated with Computer Science degree. Familiar with HTML, CSS, JavaScript, and basic React. Completed several personal projects and internships.",
+    "uploaded_at": "2024-01-20T12:15:00Z"
+  },
+  {
+    "resume_id": "res-008",
+    "name": "Maria Garcia",
+    "email": "maria.garcia@email.com",
+    "phone": "+1-555-0108",
+    "filename": "maria_garcia_resume.pdf",
+    "parsed_text_snippet": "DevOps Engineer with 4 years experience in cloud infrastructure and CI/CD. Expert in Docker, Kubernetes, AWS, and automation tools. Built deployment pipelines serving millions of users. Strong scripting skills in Python and Bash.", 
+    "uploaded_at": "2024-01-20T12:30:00Z"
+  },
+  {
+    "resume_id": "res-009",
+    "name": "Robert Kim",
+    "email": "robert.kim@email.com",
+    "phone": "+1-555-0109",
+    "filename": "robert_kim_resume.pdf",
+    "parsed_text_snippet": "Machine Learning Engineer with 3 years experience building ML pipelines. Proficient in Python, TensorFlow, PyTorch, and MLOps practices. Deployed models for image recognition and natural language processing. Strong background in deep learning.",
+    "uploaded_at": "2024-01-20T13:00:00Z"
+  },
+  {
+    "resume_id": "res-010", 
+    "name": "Amanda Foster",
+    "email": "amanda.foster@email.com",
+    "phone": "+1-555-0110",
+    "filename": "amanda_foster_resume.pdf",
+    "parsed_text_snippet": "Product Manager turned Developer with unique blend of technical and business skills. 2 years coding experience in JavaScript, React. Previously managed software products for 5 years. Strong communication and project management abilities.",
+    "uploaded_at": "2024-01-20T13:15:00Z"
+  }
+]
